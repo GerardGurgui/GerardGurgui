@@ -1,0 +1,47 @@
+
+package ClasesObjetos;
+
+
+
+public class PruebaPersona {
+    
+    public static void main(String[] args) {
+        
+        
+        //DECLARAR VARIABLE DESDE LA CLASE PERSONA
+        //PARA CREAR OBJETOS
+        Persona persona1;
+        
+
+        //CREAR EL OBJETO CON NUESTRA VARIABLE
+        persona1 = new Persona();
+        
+
+        //YA PODEMOS ACCEDER A LOS ATRIBUTOS (VARIABLES)
+        //QUE HEMOS CREADO PARA ESTE OBJETO
+        persona1.nombre = "Gerard";
+        persona1.apellido = "Gurgui";
+        
+        //INVOCAMOS FUNCION DESPLEGARINFO, QUE LO QUE HACE ES MOSTRAR INFO
+        persona1.desplegarInformacion();
+        
+        //PODEMOS CREAR MAS OBJETOS APARTIR D NUESTRA CLASE PERSONA 
+        
+        Persona persona2 = new Persona();
+        System.out.println("Persona2 en memoria: " +persona2);
+        
+        //VALORES NULOS
+        persona2.desplegarInformacion();
+        
+        //MODIFICAR VALORES PERSONA2
+        persona2.nombre = "Elden";
+        persona2.apellido = "Ring";
+        persona2.desplegarInformacion();
+        
+        
+        System.out.println("Prova desde Git add commit remote push");
+        
+    }
+    
+    
+}
