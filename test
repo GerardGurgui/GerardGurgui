@@ -1,0 +1,43 @@
+package POO.Exercici5;
+
+
+public class App {
+    
+    public static void main(String[] args) {
+        
+        
+        Punt punt1 = new Punt(10, 25);
+        Punt punt2 = new Punt(0, 50);
+        
+        
+        Cercle cercle1 = new Cercle(punt1, 20); //PUNT = CENTRE
+        Cercle cercle2 = new Cercle(punt2, 20); //PUNT = CENTRE
+        
+        
+        
+        //METODES
+            //DISTRANCIA ENTRE CENTRES
+        System.out.println("distancia entre els cercles:" +cercle1.distanciaCentres(cercle2));
+            //EQUALS
+        System.out.println("Els cercles són iguals? " +cercle1.equals(cercle2));
+        
+            //SON CONCENTRICS
+        System.out.println("Els cercles són concentrics? " +cercle1.sonConcentrics(cercle2));
+        
+            //MATEIX RADI
+        System.out.println("Els cercles tenen el mateix radi? " +cercle1.tenenIgualRadi(cercle2));
+        
+            //TANGENTS
+        System.out.println("Els cercles són tangents? " +cercle1.sonTangents(cercle2));
+        
+            //SECANTS
+        System.out.println("Els cercles són secants? " +cercle1.sonSecantes(cercle2));
+        
+            //NO ES TOQUEN
+        System.out.println("Els cercles no es tocan? " +cercle1.noEsToquen(cercle2));
+        
+            
+    }
+    
+    
+}
