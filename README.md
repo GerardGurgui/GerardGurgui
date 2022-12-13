@@ -10,18 +10,20 @@
 
 
 -👀 Interesado en:
+
   El mundo tecnológico, especialmente el de desarrollo y programación.
   Motivación y pasión por el desarrollo de servicios web RESTFUL, API REST, creación de proyectos/aplicaciones reales.
 
 
 -🌱 Aprendizaje constante:
+
   Después de finalizar el bootcamp, tengo la gran oportunidad de colaborar en la realización de proyectos de enfoque laboral con un equipo 
   de desarrolladores.
   Y por supuesto, sigo aprendiendo y practicando por mi cuenta, documentación, buenas prácticas, recursos y guías.
-  Para poder mejorar mis proyectos y crear de nuevos.
 
 
 -💞️ Mis objetivos:
+
   Mi objetivo es poder seguir creciendo dentro del mundo tecnológico, aportar mis conocimientos y poder
   colaborar y aprender dentro del mundo laboral
 
