@@ -1,4 +1,5 @@
 -👋 Soy Gerard Gurgui
+
   Responsable, proactivo y autodidacta, en constante aprendizaje y práctica.
 
   Estudiante de segundo año de grado superior Administración de sistemas informáticos y redes.
