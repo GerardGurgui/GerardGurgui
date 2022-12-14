@@ -25,7 +25,9 @@
 
   Dessarrollo de servicios web RESTful y API REST con Java, spring (spring boot), JPA, Hibernate, bases de datos relacionales y no relacionales
   (Sql, postgreSql y MongoDb) 
+  
   Spring security, autenticación y autorización JWT
+  
   Thymeleaf, HTML, CSS básico
   
 
