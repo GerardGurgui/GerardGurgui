@@ -5,7 +5,7 @@
   Estudiante de segundo año de grado superior Administración de sistemas informáticos y redes.
   Gracias al grado superior de sistemas me introduje al mundo de la programación, dónde no he parado de investigar y experimentar por mi cuenta.
 
-  Finalmente con los conocimientos básicos y la motivación, opté por realizar un bootcamp de backend con Java y Spring de IT Academy, desde luego ha sido
+  Finalmente con los conocimientos básicos y la motivación, opté por realizar un bootcamp en la especialidad de backend con Java y Spring de IT Academy, desde luego ha sido
   un gran reto y una gran satisfacción completarlo, adquiriendo sólidos conocimientos en el sector.
 
 
