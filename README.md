@@ -2,7 +2,7 @@
 
   Responsable, proactivo y autodidacta, en constante aprendizaje y práctica.
 
-  Estudiante de segundo año de grado superior Administración de sistemas informáticos y redes.
+  Estudiante en el segundo año de grado superior Desarrollo de aplicaciones web.
   Gracias al grado superior de sistemas me introduje al mundo de la programación, dónde no he parado de investigar y experimentar por mi cuenta.
 
   Finalmente con los conocimientos básicos y la motivación, opté por realizar un bootcamp en la especialidad de backend con Java y Spring de IT Academy, desde luego ha sido
