@@ -33,5 +33,5 @@
 
 - 💞️ Mis objetivos:
 
-  Mi objetivo es poder seguir creciendo dentro del mundo tecnológico, aportar mis conocimientos y poder
+  Mi objetivo es seguir creciendo dentro del mundo tecnológico, aportar mis conocimientos y poder
   colaborar y aprender dentro del mundo laboral
