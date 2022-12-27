@@ -11,7 +11,7 @@
 - 👀 Interesado en:
 
   El mundo tecnológico, especialmente el de desarrollo y programación.
-  Motivación y pasión por el desarrollo de servicios web RESTFUL, API REST, creación de proyectos/aplicaciones reales.
+  Motivación y pasión por el desarrollo de servicios web RESTFUL, API REST, creación de aplicaciones y servicios.
 
 
 - 🌱 Aprendizaje constante:
