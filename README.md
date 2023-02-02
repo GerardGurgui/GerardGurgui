@@ -2,9 +2,8 @@
 
   Responsable, proactivo y autodidacta, en constante aprendizaje y práctica.
 
-  Estudiante de grado superior en Desarrollo de aplicaciones web.
-  Gracias al grado superior me introduje al mundo de la programación, el cual me ha despertado una gran pasión y a la vez motivación por aprender y superarme a mi mismo.
-  
+  Estudiante de grado superior en Desarrollo de aplicaciones web,  el cual me ha despertado una gran pasión y a la vez motivación por aprender y superarme a mi mismo.
+ 
   Actualmente también estoy colaborando en un proyecto real Open Source de la Generalitat de Cataluña,  una gran oportunidad gracias al Bootcamp realizado de backend  en It Academy.
 
   Finalmente opté por realizar un bootcamp en la especialidad de backend con Java y Spring de IT Academy, desde luego ha sido
