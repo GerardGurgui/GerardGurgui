@@ -2,8 +2,8 @@
 
   Responsable, proactivo y autodidacta, en constante aprendizaje y práctica.
 
-  Estudiante en el segundo año de grado superior Desarrollo de aplicaciones web.
-  Gracias al grado superior de sistemas me introduje al mundo de la programación, dónde no he parado de investigar y experimentar por mi cuenta.
+  Estudiante de grado superior en Desarrollo de aplicaciones web.
+  Gracias al grado superior me introduje al mundo de la programación, el cual me ha despertado una gran pasión y a la vez motivación por aprender y superarme a mi mismo.
 
   Finalmente con los conocimientos básicos y la motivación, opté por realizar un bootcamp en la especialidad de backend con Java y Spring de IT Academy, desde luego ha sido
   un gran reto y una gran satisfacción completarlo, adquiriendo sólidos conocimientos y habilidades en Java y en el desarrollo de servicios web RESTful y API REST.
