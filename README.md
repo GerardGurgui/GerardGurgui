@@ -26,7 +26,7 @@ Gracias a ello actualmente estoy colaborando en un proyecto Open Source de la Ge
   Dessarrollo de servicios web RESTful y API REST con Java, spring (spring boot), JPA, Hibernate, bases de datos relacionales y no relacionales
   (Sql, postgreSql y MongoDb) 
   
-  Spring security, autenticación y autorización JWT
+  Spring security, JWT
   
   Testing Junit5 y Mockito.
   
