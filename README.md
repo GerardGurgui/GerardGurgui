@@ -28,6 +28,8 @@ Gracias a ello actualmente estoy colaborando en un proyecto Open Source de la Ge
   
   Spring security, autenticación y autorización JWT
   
+  Testing Junit5 y Mockito.
+  
   Thymeleaf, HTML, CSS básico
   
 
