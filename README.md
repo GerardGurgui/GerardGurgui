@@ -4,9 +4,9 @@
 
   Estudiante de grado superior en Desarrollo de aplicaciones web,  el cual me ha despertado una gran pasión y a la vez motivación por aprender y superarme a mi mismo.
  
- Opté por realizar el Bootcamp en la especialidad de Backend con Java y Spring de IT Academy, ha sido un gran reto y una gran satisfacción finalizarlo, adquiriendo sólidos conocimientos y habilidades en Java y en el desarrollo de servicios web RESTful y API REST.
+  Opté por realizar el Bootcamp en la especialidad de Backend con Java y Spring de IT Academy, ha sido un gran reto y una gran satisfacción finalizarlo, adquiriendo      sólidos conocimientos y habilidades en Java y en el desarrollo de servicios web RESTful y API REST.
 
-Gracias a ello actualmente estoy colaborando en un proyecto Open Source de la Generalitat de Cataluña.
+  Gracias a ello actualmente estoy colaborando en un proyecto Open Source de la Generalitat de Cataluña.
 
 - 👀 Interesado en:
 
