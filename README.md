@@ -1,39 +1,30 @@
-- 👋 Soy Gerard Gurgui
+👋 I’m Gerard Gurgui
 
-  Responsable, proactivo y autodidacta, en constante aprendizaje y práctica.
+Responsible, proactive, and self-taught, constantly learning and practicing.
 
-  Estudiante de grado superior en Desarrollo de aplicaciones web,  el cual me ha despertado una gran pasión y a la vez motivación por aprender y superarme a mi mismo.
- 
-  Opté por realizar el Bootcamp en la especialidad de Backend con Java y Spring de IT Academy, ha sido un gran reto y una gran satisfacción finalizarlo, adquiriendo      sólidos conocimientos y habilidades en Java y en el desarrollo de servicios web RESTful y API REST.
+I’m a higher education student in Web Application Development, a field that has sparked a strong passion in me and motivates me to keep learning and improving every day.
 
-  Gracias a ello actualmente estoy colaborando en un proyecto Open Source de la Generalitat de Cataluña.
+I chose to complete the Backend Bootcamp with Java and Spring at IT Academy. It was a major challenge and an even greater satisfaction to complete it, gaining solid knowledge and skills in Java and in the development of RESTful web services and REST APIs.
 
-- 👀 Interesado en:
+Thanks to this, I am currently collaborating on an Open Source project for the Government of Catalonia.
 
-  El mundo tecnológico, especialmente el de desarrollo y programación.
-  Motivación y pasión por el desarrollo de servicios web RESTFUL, API REST, creación de aplicaciones y servicios.
+👀 Interested in:
 
+The tech world—especially development and programming. Motivated and passionate about creating RESTful web services, REST APIs, applications, and backend services.
 
-- 🌱 Aprendizaje constante:
+🌱 Continuous learning:
 
-  Después de finalizar el bootcamp, tengo la gran oportunidad de colaborar en la realización de proyectos de enfoque laboral con un equipo 
-  de desarrolladores.
-  Y por supuesto, sigo aprendiendo y practicando por mi cuenta, documentación, buenas prácticas, recursos y guías.
+After finishing the bootcamp, I’ve had the great opportunity to collaborate on work-oriented projects with a team of developers. And of course, I continue learning and practicing on my own: documentation, best practices, resources, and guides.
 
+📫 Technical skills:
 
-- 📫 Habilidades tecnólogicas:
+Development of RESTful web services and REST APIs with Java, Spring (Spring Boot), JPA, Hibernate, relational and non-relational databases (SQL, PostgreSQL, and MongoDB)
 
-  Dessarrollo de servicios web RESTful y API REST con Java, spring (spring boot), JPA, Hibernate, bases de datos relacionales y no relacionales
-  (Sql, postgreSql y MongoDb) 
-  
-  Spring security, JWT
-  
-  Testing Junit5 y Mockito.
-  
-  Thymeleaf, HTML, CSS básico
-  
+I have worked on projects involving microservices architectures, reactive applications with Spring WebFlux, and secure authentication/authorization using Spring Security, JWT, and OAuth.
+Testing with JUnit 5 and Mockito
 
-- 💞️ Mis objetivos:
+Thymeleaf, HTML, basic CSS
 
-  Mi objetivo es seguir creciendo dentro del mundo tecnológico, aportar mis conocimientos y poder
-  colaborar y aprender dentro del mundo laboral
+💞️ My goals:
+
+My goal is to keep growing in the tech field, contribute with my knowledge, and continue collaborating and learning in the professional environment.
