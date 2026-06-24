@@ -1,4 +1,4 @@
-👋 # Hi, I'm Gerard Gurgui
+👋 Hi, I'm Gerard Gurgui
 
 Backend Developer focused on Java, Spring Boot and backend architecture.
 
