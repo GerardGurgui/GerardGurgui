@@ -1,30 +1,40 @@
-👋 I’m Gerard Gurgui
+👋 # Hi, I'm Gerard Gurgui
 
-Responsible, proactive, and self-taught, constantly learning and practicing.
+Backend Developer focused on Java, Spring Boot and backend architecture.
 
-I’m a higher education student in Web Application Development, a field that has sparked a strong passion in me and motivates me to keep learning and improving every day.
+Currently building VookedMe, a multi-tenant SaaS platform that automates appointment booking through WhatsApp and AI-powered conversational workflows.
 
-I chose to complete the Backend Bootcamp with Java and Spring at IT Academy. It was a major challenge and an even greater satisfaction to complete it, gaining solid knowledge and skills in Java and in the development of RESTful web services and REST APIs.
+My main interests are backend systems, API design, automation, distributed systems and building software that solves real business problems.
 
-Thanks to this, I am currently collaborating on an Open Source project for the Government of Catalonia.
+## Current Focus
 
-👀 Interested in:
+* Java & Spring Boot
+* SaaS Architecture
+* REST APIs
+* PostgreSQL
+* Automation & AI Integration
+* System Design
 
-The tech world—especially development and programming. Motivated and passionate about creating RESTful web services, REST APIs, applications, and backend services.
+## Featured Project
 
-🌱 Continuous learning:
+### VookedMe
 
-After finishing the bootcamp, I’ve had the great opportunity to collaborate on work-oriented projects with a team of developers. And of course, I continue learning and practicing on my own: documentation, best practices, resources, and guides.
+AI-powered booking automation platform for service businesses.
 
-📫 Technical skills:
+Features include:
 
-Development of RESTful web services and REST APIs with Java, Spring (Spring Boot), JPA, Hibernate, relational and non-relational databases (SQL, PostgreSQL, and MongoDB)
+* Multi-tenant architecture
+* WhatsApp integration
+* Conversational booking workflows
+* Business rules engine
+* PostgreSQL backend
+* Automated scheduling and appointment management
 
-I have worked on projects involving microservices architectures, reactive applications with Spring WebFlux, and secure authentication/authorization using Spring Security, JWT, and OAuth.
-Testing with JUnit 5 and Mockito
+Currently in advanced validation phase and preparation for commercial launch.
 
-Thymeleaf, HTML, basic CSS
+## Background
 
-💞️ My goals:
+Alongside my transition into software development, I have several years of operational and team coordination experience in the retail sector, which has helped me develop strong problem-solving, ownership and execution skills.
 
-My goal is to keep growing in the tech field, contribute with my knowledge, and continue collaborating and learning in the professional environment.
+Always interested in learning, building and collaborating on meaningful projects.
+
