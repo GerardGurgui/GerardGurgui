@@ -1,40 +1,78 @@
-👋 Hi, I'm Gerard Gurgui
+# Hi, I'm Gerard Gurgui 👋
 
-Backend Developer focused on Java, Spring Boot and backend architecture.
+Backend & AI Developer building production-ready SaaS products, intelligent automation and modern backend systems.
 
-Currently building VookedMe, a multi-tenant SaaS platform that automates appointment booking through WhatsApp and AI-powered conversational workflows.
+I enjoy designing software that combines robust backend architecture, conversational AI and automation to solve real business problems.
 
-My main interests are backend systems, API design, automation, distributed systems and building software that solves real business problems.
+---
 
-## Current Focus
-
-* Java & Spring Boot
-* SaaS Architecture
-* REST APIs
-* PostgreSQL
-* Automation & AI Integration
-* System Design
-
-## Featured Project
+## 🚀 Currently Building
 
 ### VookedMe
 
-AI-powered booking automation platform for service businesses.
+An AI-powered multi-tenant SaaS platform that automates appointment booking through WhatsApp using conversational workflows.
 
-Features include:
+Current areas of work:
 
-* Multi-tenant architecture
-* WhatsApp integration
-* Conversational booking workflows
-* Business rules engine
-* PostgreSQL backend
-* Automated scheduling and appointment management
+- AI Agents & Conversational AI
+- Backend Decision Engine
+- Reality Engine
+- Multi-tenant SaaS Architecture
+- REST APIs
+- Business Automation
+- Scheduling & Availability
+- PostgreSQL Backend
 
-Currently in advanced validation phase and preparation for commercial launch.
+Currently in advanced validation and commercial preparation.
 
-## Background
+---
 
-Alongside my transition into software development, I have several years of operational and team coordination experience in the retail sector, which has helped me develop strong problem-solving, ownership and execution skills.
+## 💡 Engineering Principles
 
-Always interested in learning, building and collaborating on meaningful projects.
+I believe good software is less about clever code and more about thoughtful architecture.
 
+I enjoy building systems that are:
+
+- Reliable
+- Maintainable
+- Observable
+- Scalable
+- Production-ready
+- Designed for long-term evolution
+
+---
+
+## 🎯 Current Focus
+
+- Backend Architecture
+- AI Agent Development
+- Intelligent Automation
+- SaaS Platforms
+- System Design
+- Java & Spring Boot
+
+---
+
+## ⭐ Featured Projects
+
+- **VookedMe** — AI-powered booking platform for service businesses.
+- **Mission Control** — Engineering workspace for product architecture, knowledge and decision making.
+- **Reactive Microservices** — Spring Boot microservices architecture with authentication, messaging and distributed systems.
+
+---
+
+## 🌱 Open Source Journey
+
+I believe contributing to open source is one of the best ways to grow as an engineer.
+
+My goal is to actively contribute to projects related to backend engineering, AI and modern SaaS architecture while documenting the entire journey in public.
+
+---
+
+## 🤝 Let's Connect
+
+🌐 https://vookedme.com
+
+💼 https://linkedin.com/in/gerard-gurgui-ballve
+
+Always interested in collaborating on meaningful products, open-source projects and engineering discussions around backend systems, AI and SaaS architecture.
